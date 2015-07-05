@@ -8,5 +8,6 @@ function check(){
     show ="Hello Master " + a +" XD.";
   }
   document.getElementById('InResult').innerHTML=show;
+  window.alert(show);
 
 }
