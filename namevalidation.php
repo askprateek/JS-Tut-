@@ -15,7 +15,7 @@
         <input id ="name" type ="text">
       </div>
       <div class="col l2">
-        <button class="btn waves-effect waves-light" onclick="check()">Submit LOL</button>
+        <button class="btn waves-effect waves-light" onmouseover="fill()" onclick="check()">Submit LOL</button>
       </div>
     </div>
     <div class="row">
